@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Main {
 	public static long count;
 	public static int N, B, C;

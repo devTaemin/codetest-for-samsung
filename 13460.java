@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Marble {
 	private int Rx;
 	private int Ry;

@@ -1,6 +1,3 @@
-import java.util.*;
-import java.io.*;
-
 class Tail {
 	private int x;
 	private int y;

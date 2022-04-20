@@ -1,6 +1,3 @@
-import java.util.*;
-import java.io.*;
-
 class Main {
 	public static int N;
 	public static int result;
